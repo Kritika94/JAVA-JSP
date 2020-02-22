@@ -1,0 +1,22 @@
+SMAP
+Customerreg_jsp.java
+JSP
+*S JSP
+*F
++ 0 Customerreg.jsp
+Customerreg.jsp
++ 1 Home.jsp
+Home.jsp
+*L
+5,5:49
+5#1,63:53
+68:116,2
+69,12:118
+81:130,2
+82,3:132
+85,7:136
+91,18:143
+9#0,103:160
+112,2:263,3
+114,8:269
+*E
